@@ -16,4 +16,4 @@ with Pandas in an Azure Databricks environment to finally have the new validated
 NOTE: The code was originally written in Spanish and translated into English for general readability purposes in terms of portfolio showcasing duties, which strictly and
 functionally speaking means that some column names have also been translated into English when in practical terms are not supposed to.
 
-NOTE 2: The details of the purpose and general function of the rules are extensively explained in their documentation. 
+NOTE 2: The details of the purpose and general function of the rules are extensively explained in their documentation (Section 3). 
